@@ -1,0 +1,15 @@
+Split: att0
+Edge: 0
+Split: att1
+Edge: 0
+Leaf: {1=23}
+Edge: 1
+Split: att2
+Edge: 0
+Leaf: {1=8}
+Edge: 1
+Leaf: {0=8}
+Edge: 1
+Leaf: {1=61}
+Edge: att0
+Leaf: {class=1}
